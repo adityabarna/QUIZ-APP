@@ -1,0 +1,260 @@
+{
+  "quizzes": [
+    {
+      "id": "q1",
+      "title": "Cosmic Wonders",
+      "description": "Test your knowledge of the universe, stars, planets, and space exploration!",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "questions": [
+        {
+          "id": "q1_1",
+          "question": "What is the approximate age of the Universe?",
+          "options": [
+            "4.5 billion years",
+            "13.8 billion years",
+            "9.3 billion years",
+            "20 billion years"
+          ],
+          "correctAnswer": "13.8 billion years",
+          "explanation": "Scientific measurements, such as those from the Planck satellite, estimate the age of the universe to be approximately 13.8 billion years."
+        },
+        {
+          "id": "q1_2",
+          "question": "Which planet in our solar system has the most moons?",
+          "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+          ],
+          "correctAnswer": "Saturn",
+          "explanation": "Saturn has the most confirmed moons in our solar system, with over 140 confirmed moons, overtaking Jupiter."
+        },
+        {
+          "id": "q1_3",
+          "question": "What is the name of the first human-made satellite launched into space?",
+          "options": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Vostok 1",
+            "Explorer 1"
+          ],
+          "correctAnswer": "Sputnik 1",
+          "explanation": "Sputnik 1 was launched by the Soviet Union on October 4, 1957, marks the beginning of the Space Age."
+        },
+        {
+          "id": "q1_4",
+          "question": "What is the closest star system to Earth?",
+          "options": [
+            "Sirius",
+            "Alpha Centauri",
+            "Proxima Centauri",
+            "Betelgeuse"
+          ],
+          "correctAnswer": "Alpha Centauri",
+          "explanation": "Alpha Centauri is the closest star system to Earth, located about 4.37 light-years away. Proxima Centauri is the individual closest star within this system."
+        },
+        {
+          "id": "q1_5",
+          "question": "What happens at the event horizon of a black hole?",
+          "options": [
+            "Light is reflected",
+            "Gravity becomes zero",
+            "The escape velocity exceeds the speed of light",
+            "Matter is converted directly into energy"
+          ],
+          "correctAnswer": "The escape velocity exceeds the speed of light",
+          "explanation": "The event horizon is the boundary around a black hole where the escape velocity is greater than the speed of light. Nothing, not even light, can escape once inside it."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "Ancient Civilizations",
+      "description": "Journey back in time to test your knowledge of Egypt, Rome, Greece, and Mesoamerica.",
+      "category": "History",
+      "difficulty": "hard",
+      "timeLimit": 20,
+      "questions": [
+        {
+          "id": "q2_1",
+          "question": "Which Pharaoh's tomb was discovered almost completely intact by Howard Carter in 1922?",
+          "options": [
+            "Ramesses II",
+            "Tutankhamun",
+            "Akhenaten",
+            "Cleopatra"
+          ],
+          "correctAnswer": "Tutankhamun",
+          "explanation": "King Tutankhamun's tomb (KV62) in the Valley of the Kings was discovered nearly intact in 1922, offering unprecedented insights into ancient Egyptian royal life."
+        },
+        {
+          "id": "q2_2",
+          "question": "What was the primary language spoken in the Roman Empire?",
+          "options": [
+            "Greek",
+            "Latin",
+            "Italian",
+            "Aramaic"
+          ],
+          "correctAnswer": "Latin",
+          "explanation": "Latin was the official language of the Roman Empire, though Greek was widely spoken as a lingua franca in the Eastern Mediterranean."
+        },
+        {
+          "id": "q2_3",
+          "question": "The Code of Hammurabi, one of the earliest written legal codes, originated in which ancient empire?",
+          "options": [
+            "Egyptian Empire",
+            "Babylonian Empire",
+            "Assyrian Empire",
+            "Persian Empire"
+          ],
+          "correctAnswer": "Babylonian Empire",
+          "explanation": "The Code of Hammurabi was enacted by the Babylonian king Hammurabi around 1754 BCE in ancient Mesopotamia (modern-day Iraq)."
+        },
+        {
+          "id": "q2_4",
+          "question": "Which ancient civilization constructed the city of Machu Picchu?",
+          "options": [
+            "Aztecs",
+            "Mayans",
+            "Incas",
+            "Olmecs"
+          ],
+          "correctAnswer": "Incas",
+          "explanation": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru, built for the Inca emperor Pachacuti."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": "General Trivia Blitz",
+      "description": "A quick run through random facts, pop culture, geography, and fun trivia.",
+      "category": "General Knowledge",
+      "difficulty": "easy",
+      "timeLimit": 10,
+      "questions": [
+        {
+          "id": "q3_1",
+          "question": "Which is the largest ocean on Earth?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+          ],
+          "correctAnswer": "Pacific Ocean",
+          "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions, covering about 30% of the Earth's surface."
+        },
+        {
+          "id": "q3_2",
+          "question": "How many bones are there in an adult human body?",
+          "options": [
+            "106",
+            "206",
+            "306",
+            "406"
+          ],
+          "correctAnswer": "206",
+          "explanation": "An adult human skeleton consists of 206 bones, whereas a newborn baby actually has around 270 bones (many of which fuse together over time)."
+        },
+        {
+          "id": "q3_3",
+          "question": "Which country is the home of the kangaroo?",
+          "options": [
+            "New Zealand",
+            "South Africa",
+            "Australia",
+            "Austria"
+          ],
+          "correctAnswer": "Australia",
+          "explanation": "Kangaroos are marsupials that are indigenous to the continent of Australia."
+        }
+      ]
+    },
+    {
+      "id": "custom_1783447054389",
+      "title": "JavaScript Basics",
+      "description": "A quiz testing core JS fundamentals.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "timeLimit": 15,
+      "questions": [
+        {
+          "id": "q_1783447054390_0",
+          "question": "Which keyword is used to declare a block-scoped local variable?",
+          "options": [
+            "var",
+            "let",
+            "define",
+            "const-var"
+          ],
+          "correctAnswer": "let",
+          "explanation": "'let' allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used."
+        }
+      ]
+    },
+    {
+      "id": "custom_1783447530140",
+      "title": "JavaScript Basics",
+      "description": "A quiz testing core JS fundamentals",
+      "category": "General Knowledge",
+      "difficulty": "medium",
+      "timeLimit": 15,
+      "questions": [
+        {
+          "id": "q_1783447530141_0",
+          "question": "Which keyword is used to declare a block-scoped local variable",
+          "options": [
+            "var",
+            "let",
+            "define",
+            "const-var"
+          ],
+          "correctAnswer": "let",
+          "explanation": "let' allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used"
+        }
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "id": "lb1",
+      "username": "CosmoExplorer",
+      "quizTitle": "Cosmic Wonders",
+      "score": 5,
+      "totalQuestions": 5,
+      "percentage": 100,
+      "date": "2026-07-06T14:32:00Z"
+    },
+    {
+      "id": "lb2",
+      "username": "HistoryBuff",
+      "quizTitle": "Ancient Civilizations",
+      "score": 3,
+      "totalQuestions": 4,
+      "percentage": 75,
+      "date": "2026-07-07T09:15:00Z"
+    },
+    {
+      "id": "lb3",
+      "username": "TriviaKing",
+      "quizTitle": "General Trivia Blitz",
+      "score": 3,
+      "totalQuestions": 3,
+      "percentage": 100,
+      "date": "2026-07-07T11:45:00Z"
+    },
+    {
+      "id": "lb_1783447009085",
+      "username": "CodingPro",
+      "quizTitle": "Cosmic Wonders",
+      "score": 4,
+      "totalQuestions": 5,
+      "percentage": 80,
+      "date": "2026-07-07T17:56:49.086Z"
+    }
+  ]
+}
